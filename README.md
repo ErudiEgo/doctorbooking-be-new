@@ -3,7 +3,7 @@ Dự án Doctorbooking
 
 FE: https://github.com/ErudiEgo/doctorbooking-fe
 
-BE: https://github.com/ErudiEgo/doctorbooking-be
+BE: [https://github.com/ErudiEgo/doctorbooking-be](https://github.com/ErudiEgo/doctorbooking-be-new)
 
 Phiên bản Database: PostgresSQL
 
